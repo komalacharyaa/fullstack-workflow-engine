@@ -15,6 +15,7 @@ highlights any potential errors when communicating with the backend.
 
 ![](https://user-images.githubusercontent.com/701/140308942-264f40fa-f6ac-43cf-88f0-b6c4bfdfe105.mp4)
 
+
 ## Getting started
 
 Install Python and NPM packages
